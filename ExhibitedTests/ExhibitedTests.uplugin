@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ExhibitedTests",
+	"Description": "Holds the Automation Tests for our project",
+	"Category": "Other",
+	"CreatedBy": "Niels Strijker",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ExhibitedTests",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+BP_PlayerCharacter
+ObjectRedirector
+DataTable
+SoundAttenuation
+LPersistentLevel
+Cmp_Throwing
+GM_BaseGameMode
+GM_DebugGamemode
+Cmp_AIAudioComponent
+EQC_
+MM_
+BP_ReplayPlayer
