@@ -14,7 +14,7 @@ def send(message):
         'cache-control': "no-cache",
     }
 
-    webhook = 'https://discordapp.com/api/webhooks/646336503512956968/XlgRvBMCcoJV30xdnNb5sFTXLpCk-Pvb7SGBmC4hxkvTJwI28NtGWsF4jdxUkLgim8ug'
+    webhook = '<Our discord webhook>'
 
     conn.request("POST", webhook, payload, headers)
 
